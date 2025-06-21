@@ -77,6 +77,7 @@
 - [Rama Samsara](https://github.com/RamaSamsara) This one of my learning stage into GitHub
 - [Akshada Mane](https://github.com/AkshadaMane26) Starting my open source contribution journey.
 - [Thinzar](https://github.com/Thinzar-Shun-Lei)
+- [Rahul Shaw](https://github.com/RahulShaw321) Hello to everyone from India !!
 - [Aditya](https://github.com/itxadii) Lets Connect coders🚀.
 - [Abhishek](https://github.com/Abhishek-Mishra-GH) This marks the beginning of my open source journy
 - [Rishabh Singh Gaharwar](https://github.com/RishabhSGaharwar) First step of my open source journey
